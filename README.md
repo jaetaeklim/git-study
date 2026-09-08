@@ -25,3 +25,9 @@ Git 사용법을 로컬 PC에서 공부하기 위한 연습 프로젝트입니�
 ## GitHub Pull 실습
 
 GitHub에서 직접 수정한 내용입니다.
+## Pull Request 실습
+
+pr-study 브랜치에서 수정한 내용입니다.
+
+- Pull Request 생성 실습
+- 코드 리뷰 및 Merge 실습
